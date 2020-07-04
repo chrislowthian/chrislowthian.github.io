@@ -1,2 +1,2 @@
-# chrislowthian.github.io
-Personal Blog
+# Chris Lowthian
+Personal Website
